@@ -1,0 +1,22 @@
+Keloğlan=3
+Balkız=5
+Keloğlanın_Anası=6
+print(Keloğlan, Balkız, Keloğlanın_Anası)
+3 5 6
+toplam_elma=3 + 5 + 6
+print(toplam_elma)
+14
+Keloğlan=3*2
+print(Keloğlan)
+6
+Keloğlanın_Anası=6/2
+print(Keloğlanın_Anası)
+3.0
+Keloğlan=6
+Balkız=5
+Keloğlanın_Anası=3
+print(Keloğlan, Balkız, Keloğlanın_Anası)
+6 5 3
+toplam_elma=6 + 5 + 3
+print(toplam_elma)
+14
